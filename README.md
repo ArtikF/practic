@@ -1,1 +1,1 @@
-# practic.github.io
+# practic
